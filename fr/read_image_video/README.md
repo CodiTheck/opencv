@@ -78,4 +78,4 @@ Sauvegarde et exécute le script `reader.py` dans python. Et l'image s'affichera
 <br/>
 
 <!-- - Je passe à la session **suivante**: [Installation et configuration](./installation/README.md) -->
-[<--](./installation/README.md) Je reviens à la session **précédente**: [Installation et configuration](./installation/README.md)
+[<--](../installation/README.md) Je reviens à la session **précédente**: [Installation et configuration](../installation/README.md)
